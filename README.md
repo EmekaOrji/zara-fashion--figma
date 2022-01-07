@@ -1,4 +1,4 @@
-# zara-fashion--figma
+# Figma Design Replicated - 2
 Replicated a Fashion Shopping Website Design from Figma
 
 ## Source
