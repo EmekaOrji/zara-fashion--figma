@@ -5,4 +5,7 @@ Replicated a Fashion Shopping Website Design from Figma
 The design was originally from [figma](https://www.figma.com/community/file/1058502117720749930), created by [Akash Solanki](https://www.figma.com/@antivirusakash)
 
 ## Codepen
-The codepen is coming on here very soon
+Here is the [pen](https://codepen.io/emekaorji/pen/bGojmJg)
+
+## &#128681;
+Not mobile responsive
